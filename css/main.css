@@ -59,6 +59,10 @@ a[class] {
   outline: none;
   box-shadow: var(--base-focus);
 }
+.hidden {
+  opacity: 0;
+  visibility: hidden;
+}
 
 /*page*/
 .page {
